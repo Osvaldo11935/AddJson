@@ -1,0 +1,2060 @@
+[
+  {
+    "CondicaoNome": "CONDIÇÕES GERAIS E ESPECIAIS",
+    "Capitulo": [
+      {
+        "NumCapitulo": 1,
+        "Designacao": "Disposições Gerais",
+        "Artigo": [
+          {
+            "NumOrdemArtigo": 1,
+            "Titulo": "Âmbito da apólice",
+            "Clausula": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A presente apólice abrange o clausulado respeitante ao 
+                  seguro de responsabilidade civil automóvel e riscos 
+                  complementares, contendo disposições especiais do 
+                  seguro obrigatório, do seguro facultativo e disposições 
+                  comuns às duas modalidades de seguro"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 2,
+            "Titulo": "Celebração do contrato de seguro",
+            "Clausula": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A celebração do contrato de seguro tem por base as 
+                  declarações prestadas pelo segurado e ou tomador de 
+                  seguro na proposta que, para os devidos efeitos, faz parte 
+                  integrante desta apólice.
+                  ."
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 3,
+            "Titulo": "Cobertura dos riscos",
+            "Clausula": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Dos riscos previstos e regulados por esta apólice 
+                  consideram-se cobertos os que tiverem sido propostos e 
+                  aceites e, como tal, devidamente identificados nas 
+                  condições particulares, observados, porém, os preceitos e 
+                  condições a que os contraentes reciprocamente se 
+                  obrigam pelo presente contrato de seguro"
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Quando o acidente for simultaneamente de viação e de 
+                  trabalho aplicam-se as disposições deste diploma, em 
+                  conjugação com as disposições constantes da legislação 
+                  especial do Decreto 53/05 que aprova o Regime Jurídico 
+                  dos Acidentes de Trabalho e Doenças Profissionais, em 
+                  vigor.
+                  "
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 4,
+            "Titulo": "Definições",
+            "Clausula": [
+              {
+                "NumDescircao": null,
+                "Descricao": "Sem prejuízo das definições constantes do anexo 1 da Lei 1/00 Geral da Actividade Seguradora, para efeitos do presente contrato entende-se por:",
+                "PontosClausula": [
+                  {
+                    "indice": null,
+                    "Descricao": "Seguradora: A entidade legalmente autorizada para exploração do seguro obrigatório de responsabilidade civil automóvel que subscreve o presente contrato."
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Segurado: A pessoa ou entidade no interesse da qual o contrato é celebrado"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Tomador de seguro: A pessoa ou entidade que contrata com a Seguradora, sendo responsável pelo pagamento dos prémios."
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Terceiro: Aquele que, em consequência de um sinistro 
+                      coberto por este contrato, sofra uma lesão que 
+                      origine danos susceptíveis de, nos termos da lei civil e 
+                      desta apólice, serem reparados ou indemnizados"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Sinistro: O evento ou série de eventos resultantes de uma 
+                      mesma causa susceptível de fazer funcionar as garantias 
+                      do contrato."
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Lesão Corporal: Ofensa que afecte a saúde física ou 
+                      mental causando um dano"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Dano não Patrimonial: Prejuízo que, não sendo susceptível 
+                      de avaliação pecuniária, deve, no entanto, ser 
+                      compensado através do cumprimento de uma obrigação 
+                      pecuniária"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Dano Patrimonial: Prejuízo que, sendo susceptível de 
+                      avaliação pecuniária, deve ser reparado ou indemnizado."
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Franquia: Valor que, em caso de sinistro, fica a cargo do 
+                      tomador de seguro e se encontra estipulado nas condições 
+                      particulares, sendo, no entanto não oponível a terceiros."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NumCapitulo": 2,
+        "Designacao": "Disposições especiais do seguro obrigatório",
+        "Artigo": [
+          {
+            "NumOrdemArtigo": 5,
+            "Titulo": "Âmbito da cobertura",
+            "Clausula": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O contrato, que se encontra regulamentado através 
+                      deste capítulo, corresponde ao legalmente exigido 
+                      quanto à obrigação de segurar a responsabilidade civil 
+                      perante terceiros, transportados ou não, decorrente de 
+                      lesões causadas por veículos terrestres a motor, seus 
+                      reboques e semi-reboques"      
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"O seguro referido no artigo 1º abrange a 
+                      responsabilidade civil do proprietário do veículo, bem 
+                      como dos seus legítimos detentores e condutores, 
+                      pelos prejuízos causados a terceiros em virtude da 
+                      utilização do veículo seguro, até aos limites e nas 
+                      condições legalmente estabelecidos"      
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"O seguro referido no artigo 1º garante ainda os danos 
+                      causados a terceiros, provenientes de acidentes de 
+                      viação dolosamente provocados ou resultantes de 
+                      furto, roubo ou furto de uso."      
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"A responsabilidade civil relativa aos bens 
+                      transportados no veículo seguro só é abrangida pelo 
+                      seguro referido no artigo 1º no caso de transporte 
+                      colectivo de mercadorias."      
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 6,
+            "Titulo": "Exclusões",
+            "Clausula": [
+              {
+                "NumDescircao": 1,
+                "Descricao":" Excluem-se da garantia do seguro quaisquer danos 
+                      causados ao segurado, ao condutor do veículo e a 
+                      todos aqueles cuja responsabilidade é garantida, 
+                      nomeadamente em consequência da co-propriedade 
+                      do veículo seguro, bem como aos representantes 
+                      legais de pessoas colectivas ou sociedades 
+                      responsáveis pelo acidente, quando no exercício das 
+                      suas funções."
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Sem prejuízo do disposto no nº anterior, excluem-se 
+                      da garantia do seguro os danos decorrentes de lesões 
+                      materiais causadas às seguintes pessoas",
+                  "PontosClausula": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Cônjuge, ascendentes, descendentes ou 
+                          adoptados das pessoas referidas no nº 1, assim 
+                          como outros parentes ou afins até ao 3º grau das 
+                          mesmas pessoas, mas, neste último caso, só 
+                          quando com elas coabitem ou vivam a seu cargo"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Aqueles que, nos termos do Código Civil 
+                          beneficiem de uma pretensão indemnizatória 
+                          decorrente de vínculos com algumas das 
+                          pessoas referidas no nº anterior ou na alínea a) 
+                          deste nº"
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"No caso de falecimento, em consequência do 
+                      acidente, de qualquer das pessoas referidas no nº 
+                      anterior é excluída qualquer indemnização, ao 
+                      responsável culposo do acidente, por danos não 
+                      patrimoniais."
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao": "Excluem-se igualmente da garantia do seguro:",
+                "PontosClausula": [
+                  {
+                    "indice": "a",
+                    "Descricao": "Os danos causados no próprio veículo seguro"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao": "Os danos causados nos bens transportados no veículo seguro, quer se verifiquem durante o transporte, quer em operações de carga e descarga, salvo nos casos de transporte colectivo de mercadorias"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao": "Quaisquer danos causados a terceiros em consequência de operações de carga e descarga;"
+                  },
+                  {
+                    "indice": "d",
+                    "Descricao":"Quaisquer danos causados aos passageiros, 
+                          quando transportados em contravenção ao 
+                          disposto no Código de Estrada"
+                  },
+                  {
+                    "indice": "e",
+                    "Descricao":"Os danos devidos, directa ou indirectamente, a 
+                          explosão, libertação de calor ou radiação, 
+                          provenientes de desintegração ou fusão de 
+                          átomos, aceleração artificial de partículas ou 
+                          radioactividade"
+                  },
+                  {
+                    "indice": "f",
+                    "Descricao":"Quaisquer danos ocorridos durante as provas 
+                          desportivas e respectivos treinos oficiais, salvo 
+                          tratando-se de seguros celebrados 
+                          especificamente para esse fim, de harmonia com 
+                          a legislação em vigor, sem prejuízo do disposto 
+                          no artigo 8º do Apêndice III do Decreto executivo 
+                          58/02 de 5 de Dezembro"
+                  },
+                  {
+                    "indice": "g",
+                    "Descricao":"Os danos que consistem em lucros cessantes ou 
+                          perda de benefícios ou resultados advindos ao 
+                          terceiro em virtude de privações de uso, gastos 
+                          de substituição ou depreciação do veículo 
+                          terceiro em razão de sinistro ou provenientes de 
+                          depreciação, desgaste ou consumo naturais."
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 5,
+                "Descricao": "Nos casos de roubo, furto ou furto de uso de veículos  e de acidentes de viação dolosamente provocados, o seguro não garante a satisfação das indemnizações devidas pelos respectivos autores e cúmplices paracom o proprietário, usufrutuário, adquirente com reserva de propriedade ou locatário em regime de locação financeira, nem para com os autores e cúmplices ou para com os passageiros transportados que tivessem conhecimento da posse ilegítima do veículo e de livre vontade nele fossem transportados"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 7,
+            "Titulo": "Prova do seguro",
+            "Clausula": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Constitui documento comprovativo da realização do 
+                      seguro, nos termos legais em vigor, o certificado 
+                      internacional de seguro (carta amarela), o certificado de 
+                      responsabilidade civil e o certificado provisório"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NumCapitulo": 3,
+        "Designacao": "Disposições especiais do seguro facultativo",
+        "Artigo": [
+          {
+            "NumOrdemArtigo": 8,
+            "Titulo": "Seguro facultativo",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O seguro facultativo, que se encontra especialmente 
+                  regulamentado através dos artigos insertos neste capítulo, 
+                  cobre os riscos não previstos no âmbito do seguro 
+                  obrigatório de responsabilidade civil automóvel"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 9,
+            "Titulo": "Responsabilidade civil",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O seguro de responsabilidade civil abrangido por esta 
+                  cobertura só funciona fora do âmbito do seguro obrigatório 
+                  e complementarmente ao mesmo, de acordo com o que for 
+                  expressamente declarado nas condições particulares"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 10,
+            "Titulo": "Exclusões da responsabilidade civil",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A garantia consignada no artigo anterior não compreende 
+                  os danos:",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao": "Referidos no artigo 6º"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Causados aos objectos e mercadorias transportados 
+                      no veículo a que este contrato se refere, ainda que 
+                      sejam propriedade dos respectivos passageiros, salvo 
+                      se expressamente for efectuada tal cobertura"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao":"Causados a terceiros, em consequência de acidentes 
+                      de viação resultante de furto, roubo ou furto de uso;
+                      "
+                  },
+                  {
+                    "indice": "d",
+                    "Descricao":"Causados a terceiros em virtude de queda de carga 
+                      decorrente de deficiente acondicionamento;"
+                  },
+                  {
+                    "indice": "e",
+                    "Descricao": "Quando o condutor tenha abandonado o sinistrado"
+                  },
+                  {
+                    "indice": "f",
+                    "Descricao":"Quando não seja exibido o Certificado de Inspecção 
+                      Obrigatória, em momento apropriado e nos termos da 
+                      legislação em vigor."
+                  },
+                  {
+                    "indice": "",
+                    "Descricao": ""
+                  },
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 11,
+            "Titulo": "Choque, colisão e capotamento",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O seguro abrangido por esta cobertura garante os 
+                  prejuízos ou danos que advenham ao veículo em virtude 
+                  de choque, colisão, capotamento ou quebra isolada de 
+                  vidros, entendendo-se neste último caso, os vidros de 
+                  pára-brisas, óculo traseiro e os vidros laterais.
+                  Para este efeito considera-se",
+                  "subdescricao": [
+                  {
+                    "indice": null,
+                    "Descricao":"Choque: o embate do veículo contra qualquer corpo 
+                      fixo ou sofrido por aquele quando imobilizado."
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Colisão: o embate entre o veículo e qualquer outro 
+                      corpo em movimento.
+                      "
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Capotamento: o acidente em que o veículo perca a 
+                      sua posição normal e não resulte de choque ou 
+                      colisão."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 12,
+            "Titulo": "Exclusões de choque, colisão e capotamento",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A garantia consignada no artigo anterior não abrange 
+                  quebras ou danos",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Provenientes do mau estado das estradas ou 
+                      caminhos, quando deste facto não resulte choque, 
+                      colisão ou capotamento;
+                      "
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Directa e exclusivamente provenientes de defeito de 
+                      construção, montagem ou afinação, vício próprio ou 
+                      má manutenção do veículo seguro"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao":"Produzidos directamente por lama e por alcatrão ou 
+                      outros materiais empregues na construção das vias"
+                  },
+                  {
+                    "indice": "d",
+                    "Descricao":"Nas jantes, câmaras-de-ar e pneus, excepto se 
+                      resultarem de choque, colisão ou capotamento e 
+                      quando acompanhados de outros danos ao veículo;"
+                  },
+                  {
+                    "indice": "e",
+                    "Descricao":"Causados intencional ou involuntariamente pelo 
+                      tomador de seguro, pelo segurado, pelos restantes 
+                      ocupantes, ou por pessoa que com qualquer deles 
+                      coabite ou por quem deles seja civilmente 
+                      responsáve"
+                  },
+                  {
+                    "indice": "f",
+                    "Descricao":"Resultantes da circulação em locais não reconhecidos 
+                      como acessíveis ao veículo seguro"
+                  },
+                  {
+                    "indice": "g",
+                    "Descricao":"Causados por objectos transportados ou durante 
+                      operações de carga e descarga;
+                      "
+                  },
+                  {
+                    "indice": "h",
+                    "Descricao":"Causados por excesso de passageiros, excesso ou 
+                      mau acondicionamento de carga ou transporte de 
+                      objectos que ponham em risco a estabilidade e 
+                      domínio do veículo;
+                      "
+                  },
+                  {
+                    "indice": "i",
+                    "Descricao":"Os danos resultantes de subtracção, furto ou roubo
+                      que tenha origem comprovada por dolo ou culpa 
+                      grave do segurado, do tomador de seguro ou 
+                      condutor, de pessoas que com eles coabitem ou que 
+                      deles dependam economicamente, incluindo 
+                      trabalhadores."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 13,
+            "Titulo": "Furto ou roubo",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O seguro abrangido por esta cobertura garante os 
+                  prejuízos ou danos causados pelo desaparecimento, 
+                  destruição ou deterioração do veículo por motivo de furto, 
+                  roubo ou furto de uso (tentado, frustrado ou consumado)."
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 14,
+            "Titulo": "Exclusões do furto ou roubo",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A garantia consignada no artigo anterior não compreende 
+                  os danos nos seguintes casos",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Causados intencionalmente pelo segurado ou por 
+                      pessoa por quem este seja responsável;"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Que consistam em lucros cessantes ou perda de 
+                      benefícios ou resultados advindos ao segurado em 
+                      virtude de privações de uso, gastos de substituição ou 
+                      depreciação do veículo seguro em razão de sinistro 
+                      ou provenientes de depreciação, desgaste ou 
+                      consumo naturais;"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao":"Sofridos em pintura de letras, desenhos, emblemas, 
+                      dísticos alegóricos ou de reclamos ou propaganda no 
+                      veículo seguro, quando não for feita a sua menção e 
+                      valorização na apólice;"
+                  },
+                  {
+                    "indice": "d",
+                    "Descricao":" Sofridos por aparelhos acessórios e instrumentos não 
+                      incorporados de origem no veículo (extras), quando 
+                      da apólice não constem expressamente discriminados 
+                      e com indicação dos respectivos valores;
+                      "
+                  },
+                  {
+                    "indice": "e",
+                    "Descricao":"Salvo convenção expressa em contrário, não estão 
+                      compreendidos os roubos ou furtos isolados de 
+                      espelhos retrovisores exteriores, escovas, limpas 
+                      pára-brisas, antenas, emblemas, faróis, farolins."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 15,
+            "Titulo": "Participação às autoridades",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Ocorrendo furto, roubo ou furto de uso e querendo o 
+                  segurado usar dos direitos que o contrato de seguro lhe 
+                  confere, deve apresentar imediatamente queixa às 
+                  autoridades competentes e promover todas as diligências 
+                  ao seu alcance conducentes a descoberta do veículo e 
+                  autores do crime.
+                  "
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 16,
+            "Titulo": "Indemnização",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Ocorrendo furto, roubo ou furto de uso que dê origem ao 
+                  desaparecimento do veículo, a seguradora obriga-se ao 
+                  pagamento da indemnização devida, decorridos que sejam 
+                  60 dias sobre a data da participação da ocorrência à 
+                  autoridade competente, se ao fim desse período não tiver 
+                  sido encontrado.
+                  "
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 17,
+            "Titulo": "Incêndio, raio ou explosão",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O seguro abrangido por esta cobertura garante os 
+                  prejuízos ou danos causados ao veículo seguro em 
+                  consequência de incêndio ou explosão casual e raio, quer 
+                  aquele se encontre em marcha ou parado, recolhido em 
+                  garagem ou qualquer outro edifício."
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 18,
+            "Titulo": "Exclusões da garantia do incêndio raio ou explosão",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A garantia consignada no artigo anterior não compreende 
+                  os danos nos seguintes casos:",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Na aparelhagem ou instalação eléctrica, desde que 
+                      não resultem de incêndio ou explosão"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Em pintura de letras, desenhos, emblemas, dísticos 
+                      alegóricos ou de reclames ou propaganda no veículo 
+                      seguro, quando não for feita a sua menção e 
+                      valorização na apólice"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao":"Em aparelhos e instrumentos não incorporados de 
+                      origem no veículo (extras), quando da apólice não 
+                      constem expressamente discriminados e com 
+                      indicação do respectivo valor."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 19,
+            "Titulo": "Outras coberturas dos danos próprios",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Todas aquelas que sejam contratadas como coberturas 
+                  complementares, conforme artigo 8º do Decreto Executivo 
+                  58/02 de 5 de Dezembro"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 20,
+            "Titulo": "Direitos ressalvados",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Quando a seguradora haja aceite a ressalva de 
+                  direitos desta apólice a favor das pessoas ou 
+                  entidades indicadas nas condições particulares, com 
+                  domicílio também mencionado nas condições 
+                  particulares e enquanto tal se mantiver, a liquidação 
+                  dos sinistros relativa às coberturas referidas nos 
+                  artigos 11º,
+                13º e 17º não poderá ser efectuada sem o 
+                  prévio acordo das referidas pessoas ou entidades."
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"A seguradora só procede à anulação ou redução 
+                  daquelas coberturas após aviso, com antecedência de 
+                  trinta (30) dias, às referidas pessoas ou entidades."
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 21,
+            "Titulo": "Exclusões gerai",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Além das Exclusões estabelecidas para o seguro 
+                  obrigatório, referidas no artigo 6º, com excepção da 
+                  prevista na alínea a) do seu nº 4 e das demais previstas 
+                  neste capítulo, excluem-se também os danos, quando 
+                  assumidas pela seguradora as coberturas referidas nos",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Em que o veículo seja conduzido por pessoa que, 
+                      para tanto, não esteja legalmente habilitada"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Em que os danos sejam causados intencionalmente 
+                      pelo segurado ou por pessoa por quem ele seja 
+                      responsáve"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao":"De demência do condutor do veículo seguro por esta 
+                      apólice ou quando este conduza sob a influência ao 
+                      álcool, estupefacientes ou outras drogas ou produtos 
+                      tóxicos;"
+                  },
+                  {
+                    "indice": "d",
+                    "Descricao":"De guerra, mobilização, revolução, greves, distúrbios 
+                      laborais, tumultos e/ou acções de pessoas com 
+                      intenções maliciosas que tomem parte ou não em 
+                      alterações de ordem pública, sabotagem, força ou 
+                      poder de autoridade, execução da lei marcial ou 
+                      usurpação de poder civil ou militar.
+                      "
+                  },
+                  {
+                    "indice": "e",
+                    "Descricao":"Ocorridos em serviço diferente e de maior risco do 
+                      que aquele que estiver consignado nas condições 
+                      particulares deste contrato"
+                  },
+                  {
+                    "indice": "f",
+                    "Descricao":"Em que os danos sofridos pelo segurado sejam em 
+                      pinturas de letras, desenhos, emblemas, dísticos 
+                      alegóricos ou de reclamos ou propaganda no veículo 
+                      seguro, quando não for feita a sua menção e 
+                      valorização na apólice"
+                  },
+                  {
+                    "indice": "g",
+                    "Descricao":"Em que os danos sofridos pelo segurado sejam em 
+                      aparelhos e instrumentos não incorporados de origem 
+                      no veículo (extras), quando da apólice não constem 
+                      expressamente discriminados e com indicação do 
+                      respectivo valor"
+                  },
+                  {
+                    "indice": "h",
+                    "Descricao":"Em que os danos consistam em lucros cessantes ou 
+                      perda de benefícios ou resultados advindos ao 
+                      segurado em virtude de privações de uso, gastos de 
+                      substituição ou depreciação do veículo seguro em 
+                      razão de sinistro ou provenientes de depreciação, 
+                      desgaste ou consumo naturais"
+                  },
+                  {
+                    "indice": "i",
+                    "Descricao":"Provocados por fenómenos sísmicos ou 
+                      meteorológicos, inundações, desmoronamentos, 
+                      furacões e outras convulsões violentas da natureza, 
+                      salvo convenção em contrário devidamente 
+                      especificada nas condições particulares"
+                  },
+                  {
+                    "indice": "j",
+                    "Descricao":"Em que o veículo seguro seja transportado por outro 
+                      meio, sem prejuízo do disposto no nº 3 do artigo 38º."
+                  },
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 22,
+            "Titulo": "Sinistros",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"No caso de sinistros ao abrigo das coberturas de \"choque, 
+                  colisão e capotamento\", \"incêndio, raio ou explosão\" e 
+                  \"furto ou roubo\", a importância da indemnização é abatida 
+                  do capital seguro, ficando, assim, este reduzido de acordo 
+                  com as indemnizações pagas durante o período de 
+                  vigência do contrato, em relação ao qual estiver pago ou 
+                  vencido o respectivo prémio.
+                  Faculta-se ao segurado repor o capital através do 
+                  estabelecimento dum prémio suplementar correspondente 
+                  à fracção do capital reposto e ao período de tempo não 
+                  decorrido até ao vencimento da apólice."
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 23,
+            "Titulo": "Garantias de ressarcimento",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"De acordo com o Código Comercial, a indemnização 
+                  garantida para ressarcir os danos que sobrevenham ao 
+                  veículo seguro será calculada da seguinte forma:
+                  a) Quando o valor venal for superior ao valor seguro, o 
+                  segurado responderá por uma parte proporcional dos 
+                  danos.",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Quando o valor venal for superior ao valor seguro, o 
+                      segurado responderá por uma parte proporcional dos 
+                      danos.",
+                      "subdescricao": [
+                      {
+                        "indice": "i",
+                        "Descricao":"Em caso de perda total a seguradora liquida o 
+                          capital seguro, deduzindo, se outra coisa não for 
+                          mutuamente acordada, o valor proporcional do 
+                          salvado, quando este existir"
+                      },
+                      {
+                        "indice": "ii",
+                        "Descricao":"No caso de perda parcial, a seguradora indemniza 
+                          o segurado pela parte proporcional dos danos a seu 
+                          cargo. Esta parte proporcional corresponde à 
+                          aplicação, ao valor dos danos, da percentagem representada pelo capital seguro em relação ao valor 
+                          venal do veículo"
+                      },
+                    ]
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Quando o valor venal for igual ou inferior ao valor 
+                      seguro, a seguradora apenas responde até à concorrência 
+                      do valor venal, não podendo, do sinistro, resultar 
+                      enriquecimento do segurado"
+                  },
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 24,
+            "Titulo": "Arbitragem",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A avaliação dos danos no veículo seguro é feita por perito 
+                  nomeado pela seguradora e, na falta de acordo, por dois 
+                  árbitros nomeados, um por cada uma das partes. Se os 
+                  árbitros não chegarem também a acordo escolhem um 
+                  terceiro árbitro para desempate, o qual, se a seguradora 
+                  assim o exigir, deve residir em localidade diferente do 
+                  segurado. Cada uma das partes suporta as despesas e 
+                  honorários do árbitro respectivo e, na proporção em que 
+                  haja decaído, as do terceiro árbitro"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 25,
+            "Titulo": "Prestação indemnizatória",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"A seguradora pode optar pela reparação do veículo, ou 
+                  pela sua substituição, ou pela atribuição de uma 
+                  indemnização em dinheiro, dentro dos limites de valor 
+                  respectivos e sem prejuízo do disposto no artigo 22º"
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":" As reparações a que se refere o artigo anterior serão 
+                  feitas de maneira suficiente para repor a parte prejudicada 
+                  do veículo seguro no estado anterior ao sinistro.
+                  "
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"Quando nas reparações que exijam substituição de 
+                  peças ou sobressalentes o segurado não quiser sujeitar-se 
+                  à necessária demora para a sua obtenção, a seguradora 
+                  não é responsável pelos prejuízos directa ou 
+                  indirectamente daí resultantes, limitando-se à obrigação de 
+                  indemnizar pelo custo das peças ou sobressalentes 
+                  sinistrados, na base dos preços fixados na última tabela de 
+                  venda ao público"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NumCapitulo": "4",
+        "Designacao":"Disposições comuns ao seguro obrigatório e ao 
+          seguro facultativo",
+          "Artigo": [
+          {
+            "NumOrdemArtigo": 26,
+            "Titulo": "Direito de regresso",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":" Satisfeita a indemnização, a seguradora tem direito de 
+                  regresso:",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao":"Contra o causador do acidente que o tenha 
+                      provocado dolosamente"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"Contra os autores e cúmplices de roubo, furto ou 
+                      furto de uso do veículo causador do acidente;
+                      "
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao":"Contra o condutor, se este não estiver 
+                      legalmente habilitado ou tiver agido sob a 
+                      influência do álcool, estupefacientes ou outras 
+                      drogas ou produtos tóxicos, fora de prescrição 
+                      médica ou quando haja abandonado o sinistrado"
+                  },
+                  {
+                    "indice": "d",
+                    "Descricao":"Contra o responsável civil por danos causados a 
+                      terceiros em virtude de queda de carga 
+                      decorrente de deficiência de acondicionamento"
+                  },
+                  {
+                    "indice": "e",
+                    "Descricao":"Contra o responsável pela apresentação do 
+                      veículo a Inspecção periódica que não tenha 
+                      cumprido a obrigação decorrente no Código da 
+                      Estrada e diplomas que o regulamentem, excepto 
+                      se provar que o sinistro não foi provocado ou 
+                      agravado pelo mau funcionamento do veículo"
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Para além das situações referias nos nºs anteriores, 
+                  subsiste o direito de regresso da seguradora contra 
+                  qualquer pessoa ou entidade, em todos os demais casos 
+                  em que, legalmente, esse direito possa existir",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 27,
+            "Titulo": "Sub-rogação",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"A seguradora que haja indemnizado fica sub-rogada nos 
+                  respectivos direitos contra os causadores ou outros 
+                  responsáveis pelos prejuízos, podendo exigir que a subrogação seja expressamente outorgada no acto de 
+                  pagamento e recusar este, se tal lhe for negado, bem 
+                  como exigir que lhe seja entregue quitação devidamente 
+                  autenticada notarialmente com o tipo de reconhecimento 
+                  que julgar apropriado",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 28,
+            "Titulo": "Capital seguro",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Os valores máximos de responsabilidade da 
+                  seguradora, relativamente aos riscos assumidos por 
+                  esta apólice, são indicados nas suas condições 
+                  particulares, sem prejuízo dos mínimos legalmente 
+                  estabelecidos para o seguro obrigatório de 
+                  responsabilidade civil. Igualmente figuram nas 
+                  condições particulares as franquias contratadas.",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"A franquia é obrigatória nas coberturas de choque, 
+                  colisão, capotamento, incêndio, raio ou explosão, 
+                  sendo facultativa na cobertura da responsabilidade 
+                  civil.",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"Para garantia de danos próprios resultantes de 
+                  choque, colisão, capotamento, furto, roubo, incêndio, 
+                  raio ou explosão o capital seguro corresponde, em 
+                  cada anuidade do contrato, ao valor do veículo 
+                  calculado de acordo com a tabela-valor venal do 
+                  veículo prevista no artigo 9º do Apêndice III, do 
+                  Decreto Executivo nº 58/02 sobre o sistema de tarifas, 
+                  a qual deverá constar nas condições particulares.",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 29,
+            "Titulo": "Início e termo do seguro",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O presente contrato produz efeitos a partir do dia ou 
+                  dia e hora, registados respectivamente no certificado 
+                  comprovativo, do seguro e vigora pelo prazo 
+                  estabelecido nas condições particulares da apólice, 
+                  desde que o prémio ou fracção inicial sejam 
+                  pontualmente pagos.",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"O contrato de seguro pode ser celebrado por um 
+                  período certo e determinado – seguro temporário – ou 
+                  por um ano a continuar pelos seguintes",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"Se o seguro for celebrado por um ano e seguintes, 
+                  considera-se automaticamente renovado no termo de 
+                  cada anuidade, por períodos anuais, desde que 
+                  qualquer das partes o não denuncie por carta 
+                  registada ou qualquer outro meio do qual fique 
+                  registado por escrito, com a antecedência mínima de 
+                  30 dias.",
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"A resolução e a suspensão do contrato produzem os 
+                  seus efeitos às 24 horas do dia em que se verifiquem, 
+                  salvo se as mesmas resultarem de falta de 
+                  pagamento do prémio, caso em que são aplicáveis as 
+                  disposições legais em vigor",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 30,
+            "Titulo": "Alteração à qualidade do risco",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O segurado é obrigado a comunicar à seguradora, no 
+                  prazo de oito dias, todas as alterações de 
+                  circunstâncias susceptíveis de agravarem o risco, sob 
+                  pena de responder por perdas e danos, 
+                  independentemente de ter de pagar o prémio a que 
+                  haja lugar.",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Para efeitos de bonificação por ausência de sinistro e 
+                  agravamento obrigatório a praticar em caso de 
+                  sinistro, as condições são as que constam dos artigos 
+                  21º e 22º do Apêndice III (Ramo Automóvel) do
+                  Decreto Executivo nº58º/02 sobre o sistema de tarifas.",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"De conformidade com o artigo 4º do diploma acima 
+                  citado, sempre que a apólice cubra mais do que um 
+                  veículo, cada veículo será tratado, para efeitos de 
+                  garantia e comprovativo do seguro obrigatório, para 
+                  fins estatísticos, controlo e gestão interna da 
+                  seguradora como se de contrato separado se 
+                  tratasse, com excepção dos seguros de veículos 
+                  rebocador e reboque, e dos garagistas e de 
+                  automobilistas previsto no artigo 5º do Apêndice III do 
+                  Decreto Executivo nº58º/02 de 5 de Dezembro",
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 31,
+            "Titulo": "Alienação de veículo",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O contrato de seguro não se transmite em caso de 
+                  alienação do veículo, cessando os seus efeitos às 24 
+                  horas do próprio dia da alienação, salvo se for 
+                  utilizado pelo próprio segurado para segurar novo 
+                  veículo.",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"O segurado deve avisar, no prazo de 24 horas, a 
+                  seguradora da alienação do veículo.",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"Na falta de cumprimento da obrigação prevista no nº 
+                  anterior, o titular da apólice perde o direito ao estorno 
+                  do prémio relativo ao período entre o momento da 
+                  alienação do veículo e o termo da anuidade do 
+                  seguro",
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"O aviso referido no nº 2 deve ser acompanhado do 
+                  certificado provisório do seguro, do certificado de 
+                  responsabilidade civil e do certificado internacional 
+                  (carta amarela) em vigor",
+              },
+              {
+                "NumDescircao": 5,
+                "Descricao":"Na comunicação da alienação do veículo à 
+                  seguradora, o titular da apólice pode solicitar a 
+                  suspensão dos efeitos do contrato e respectiva 
+                  prorrogação do prazo de validade do mesmo, até à 
+                  substituição do veículo. Não se dando a substituição 
+                  do veículo dentro de 90 dias contados da data do 
+                  pedido de suspensão, não haverá lugar à prorrogação 
+                  do prazo, pelo que a apólice se considera anulada 
+                  desde a data do início da suspensão, sendo o prémio 
+                  a devolver pela seguradora igual a 50% do prémio 
+                  correspondente ao período não decorrido",
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 32,
+            "Titulo": "Falecimento do segurado",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O falecimento do segurado não anula esta apólice, 
+                  passando os respectivos direitos e obrigações para os 
+                  seus herdeiros, em conformidade com a lei.",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 33,
+            "Titulo": "Pagamento do prémio",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Os recibos de prémio são devidos antecipadamente 
+                  em relação ao seu período de validade",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Os prémios de seguro devem ser pagos à seguradora 
+                  ou a outra entidade por esta expressamente 
+                  designada para o efeito",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"O prémio correspondente a cada período de duração 
+                  do contrato é devido por inteiro, podendo ser 
+                  fraccionado.
+                  ",
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"O prémio ou fracção inicial são devidos na data da 
+                  celebração do contrato",
+              },
+              {
+                "NumDescircao": 5,
+                "Descricao":"Os prémios ou fracções seguintes são devidos nas 
+                  datas estabelecidas.",
+              },
+              {
+                "NumDescircao": 6,
+                "Descricao":"No caso de falta de pagamento do prémio ou fracção 
+                  na data devida, o segurado constitui-se em mora, 
+                  ficando a seguradora com o direito de suspender as 
+                  garantias do contrato nos termos da legislação em 
+                  vigor. ",
+              },
+              {
+                "NumDescircao": 7,
+                "Descricao":"A seguradora deve avisar o segurado do início da 
+                  suspensão das garantias do contrato, através de carta 
+                  registada ou qualquer outro meio do qual fique 
+                  registado por escrito",
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 34,
+            "Titulo": "Agravamentos e bonificações",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O prémio, seus agravamentos ou reduções e 
+                  bonificações por ausência de sinistros regem-se pela 
+                  tarifa aprovada pelo Decreto Executivo nº 58/02 de 05 
+                  de Dezembro e no seu apêndice III.",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Os agravamentos e bonificações por sinistralidade
+                  mantêm-se em caso de transferência de contratos 
+                  entre seguradoras",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"Para cumprimento do nº anterior, a seguradora obrigase a entregar ao segurado, no momento em que 
+                  comunicar ou lhe for comunicada a resolução do contrato, um Certificado de Tarifação com as 
+                  características oficialmente aprovadas.
+                  ",
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"Para efeitos de aplicação de agravamentos por 
+                  sinistralidade, só são considerados os sinistros que 
+                  tenham dado lugar ao pagamento de indemnizações 
+                  ou constituição de uma provisão, desde que, neste 
+                  último caso, a seguradora tenha assumido a 
+                  responsabilidade contra terceiros.",
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 35,
+            "Titulo": "Participação do sinistro",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O segurado obriga-se a comunicar, por escrito, à 
+                  seguradora a ocorrência de qualquer sinistro, no mais 
+                  curto espaço de tempo possível, nunca superior a oito 
+                  dias a contar da data da ocorrência, ou do dia de que 
+                  tenha conhecimento da ocorrência do mesmo",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"A falta de comunicação ou a comunicação tardia 
+                  constituem o segurado na obrigação de indemnizar a 
+                  seguradora por perdas e danos, nomeadamente 
+                  quando, da recepção tardia da participação resulte um 
+                  agravamento de responsabilidade da seguradora.",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"O segurado, sob pena de responder por perdas e 
+                  danos, deve tomar as providências adequadas de 
+                  modo a diminuir ou não aumentar os danos a cargo 
+                  da seguradora e não deve assumir quaisquer 
+                  compromissos transaccionais sem autorização 
+                  expressa daquela.
+                  ",
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"O segurado é obrigado a facultar à seguradora todos 
+                  os documentos necessários à determinação das 
+                  responsabilidades dos sinistros ocorridos, indicandolhe testemunhas, facultando-lhe documentos e, se a 
+                  seguradora o entender, outorgando procuração ao 
+                  advogado que esta escolha, para a defesa dos 
+                  interesses comuns, sob pena de, não o fazendo, 
+                  responder por danos.",
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 36,
+            "Titulo": "Insuficiência de capital em responsabilidade civil",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Se existirem vários lesados com direito a 
+                  indemnizações que, na sua globalidade, excedam o 
+                  montante do capital seguro, os direitos dos lesados, 
+                  contra a seguradora, reduzem-se proporcionalmente 
+                  até à concorrência daquele montante",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"A seguradora que, de boa fé e por desconhecimento 
+                  da existência de outras pretensões, liquidou a um 
+                  lesado uma indemnização de valor superior à que lhe 
+                  competiria, nos termos do nº anterior, não fica 
+                  obrigada para com os outros lesados senão até à 
+                  concorrência da parte restante do capital seguro.
+                  ",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 37,
+            "Titulo": "",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O segurado pode, a todo o tempo, resolver o contrato 
+                  ou reduzir os valores seguros por esta apólice, 
+                  mediante aviso registado à seguradora, com 
+                  antecipação de pelo menos 30 dias. Contudo, a 
+                  redução não poderá conduzir a valores inferiores aos 
+                  fixados legalmente para a cobertura obrigatória de 
+                  responsabilidade civil. Igual direito assiste à 
+                  seguradora na parte respeitante ao seguro facultativo.
+                  ",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"O prémio a devolver pela seguradora é igual 
+                  respectivamente a 75% ou 50% do prémio total 
+                  correspondente ao período não decorrido, consoante 
+                  a iniciativa da resolução tenha sido da seguradora ou 
+                  do segurado, incluindo os adicionais, de conformidade 
+                  com o nº 2 do artigo 35º do diploma que institui o 
+                  presente seguro obrigatório.",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"Sem prejuízo das disposições legais em vigor, a 
+                  seguradora pode resolver o contrato, por correio 
+                  registado, com 30 dias de antecedência em relação 
+                  ao vencimento anual",
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao":"No caso de resolução por falta de pagamento não há 
+                  lugar a qualquer devolução de prémio",
+              },
+              {
+                "NumDescircao": 5,
+                "Descricao":"Quando na anuidade em curso tenham ocorrido um 
+                  ou mais sinistros, a rescisão do contrato, por qualquer 
+                  das partes, fica subordinada aos mesmos preceitos 
+                  consignados nos nºs anteriores, considerando-se 
+                  contudo, para efeito da devolução do prémio, apenas 
+                  a parte que excede o valor da(s) indemnização(ções) 
+                  paga(s) a título de danos no próprio veículo, se o 
+                  capital correspondente ao valor desta(s) não tiver sido 
+                  reposto.
+                  ",
+              },
+              {
+                "NumDescircao": 6,
+                "Descricao":"A devolução de prémio em consequência do disposto 
+                  nos nºs anteriores implica a entrega, por parte do 
+                  segurado, do certificado de responsabilidade civil caso 
+                  ainda esteja válido. ",
+              },
+            ]
+          }
+        ]
+      },
+      {
+        "NumCapitulo": 5,
+        "Designacao": "Disposições diversas",
+        "Artigo": [
+          {
+            "NumOrdemArtigo": 38,
+            "Titulo": "Âmbito territorial",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"As coberturas consignadas no capítulo II desta 
+                  apólice, referentes ao seguro obrigatório, são, nos 
+                  termos da legislação em vigor ou a vigorar, válidas 
+                  para",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao": "o território de Angola"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao":"o território dos restantes países da SADC 
+                      (Comunidade de Desenvolvimento da África 
+                      Austral)."
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"As coberturas consignadas no capítulo III desta 
+                  apólice, referentes ao seguro facultativo, são 
+                  limitadas, salvo convenção em contrário, ao território 
+                  angolano.",
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"As coberturas referidas nos nºs anteriores mantêm-se 
+                  quando o veículo seguro seja transportado por via 
+                  fluvial, em situação de travessia por inexistência de 
+                  pontes.
+                  ",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 39,
+            "Titulo": "Inalterabilidade",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"As disposições que nesta apólice regulam o seguro 
+                  obrigatório de Responsabilidade Civil não podem ser 
+                  modificadas por acordo das partes."
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 40,
+            "Titulo": "Dos mediadores",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Nenhum mediador se presume autorizado a celebrar 
+                  contratos de seguro, a contrair ou alterar as obrigações 
+                  dele emergentes ou a validar declarações adicionais"
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Fica convencionado e reciprocamente aceite que a 
+                  presente apólice só é dada como válida e só obriga os 
+                  contraentes quando emitido o respectivo certificado 
+                  provisório ou certificado de seguro inicial"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 41,
+            "Titulo": "Elementos da proposta de seguro",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Além dos quesitos normalmente utilizados e necessários à 
+                  caracterização do risco a segurar, identificação do 
+                  segurado e definidores do âmbito da cobertura pretendida, 
+                  consideram-se de inclusão e preenchimento obrigatórios 
+                  em todas as propostas do seguro automóvel os seguintes:
+                  Identificação do segurado:
+                  ",
+                  "subdescricao": [
+                  {
+                    "indice": null,
+                    "Descricao": "Profissão"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Em que qualidade pretende o seguro (proprietário, 
+                      usufrutuário, adquirente com reserva de propriedade 
+                      ou condutor)"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Se já foi segurado noutra seguradora e em caso 
+                      afirmativo",
+                      "subdescricao": [
+                      {
+                        "indice": null,
+                        "Descricao": "seguradora"
+                      },
+                      {
+                        "indice": null,
+                        "Descricao": "número de apólice"
+                      },
+                      {
+                        "indice": null,
+                        "Descricao": "se o contrato já foi rescindido e qual o motivo"
+                      },
+                      {
+                        "indice": null,
+                        "Descricao":"se alguma vez lhe foi proposto agravamento de 
+                          prémio e qual
+                          "
+                      },
+                      {
+                        "indice": null,
+                        "Descricao":"se nos últimos dois anos participou algum sinistro e 
+                          quantos"
+                      }
+                    ]
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Identificação do condutor habitual"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao":"Nome
+                      "
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Residência"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Data de nascimento"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Data e número da carta de condução"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Província onde circula com mais frequência"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 42,
+            "Titulo": "Foro competente",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"O foro competente para qualquer acção emergente deste 
+                  contrato é o do local da emissão da apólice",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 43,
+            "Titulo": "Coberturas de Ocupantes e Fenómenos da Natureza",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Podem ser contratadas coberturas para os Ocupantes do 
+                  veículo seguro e para os danos decorrentes de 
+                  Fenómenos da Natureza, que se regem pelas Condições 
+                  Especiais abaixo descritas",
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NumCapitulo": 6,
+        "Designacao":"Condição Especial
+          Fenómenos da Natureza",
+          "Artigo": [
+          {
+            "NumOrdemArtigo": 1,
+            "Titulo": "Definições",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao": "Para efeitos desta Condição Especial consideram-se",
+                "subdescricao": [
+                  {
+                    "indice": 1,
+                    "Descricao": "Tempestades",
+                    "subdescricao": [
+                      {
+                        "indice": null,
+                        "Descricao":"Os tufões, ciclones, tornados e toda a acção directa de 
+                          ventos cuja velocidade atinja ou exceda os 100 km por 
+                          hora, ou choque de objectos arremessados ou projectados 
+                          pelos mesmos sempre que a sua violência destrua ou 
+                          danifique o veículo seguro",
+                      },
+                      {
+                        "indice": null,
+                        "Descricao":"O alagamento pela queda de chuva desde que estes 
+                          agentes atmosféricos penetrem no interior do veículo 
+                          seguro, salvo quando o façam através de portas, janelas 
+                          ou tectos de abrir deixados abertos",
+                      }
+                    ]
+                  },
+                  {
+                    "indice": 2,
+                    "Descricao": "Inundações",
+                    "subdescricao": [
+                      {
+                        "indice": null,
+                        "Descricao":"A tromba de água ou queda de chuvas torrenciais -
+                          precipitação atmosférica de intensidade superior a quinze 
+                          milímetros, em dez minutos, no pluviómetro",
+                      },
+                      {
+                        "indice": null,
+                        "Descricao":"O rebentamento de adutores, colectores, drenos, diques 
+                          e barragens",
+                      },
+                      {
+                        "indice": null,
+                        "Descricao":"A enxurrada ou transbordamento do leito de cursos de 
+                          água naturais ou artificiais;",
+                      }
+                    ]
+                  },
+                  {
+                    "indice": 3,
+                    "Descricao":".Fenómenos Sísmicos, os tremores de terra, terramotos, 
+                      erupções vulcânicas, maremotos e fogo subterrâneo e 
+                      ainda incêndio resultante destes fenómenos;"
+                  },
+                  {
+                    "indice": 4,
+                    "Descricao":"Aluimentos de Terras, os aluimentos, deslizamentos, 
+                      derrocadas e afundamentos de terrenos, devidos a 
+                      fenómenos geológicos."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 2,
+            "Titulo": "Objecto e Âmbito Territorial",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Fica expressamente convencionado que o Segurador 
+                  garante, por esta Condição Especial, a indemnização ao 
+                  Tomador do Seguro, das perdas ou danos causados ao 
+                  veículo seguro, em consequência directa de 
+                  \"Tempestades\", \"Inundações\", \"Fenómenos Sísmicos\" e 
+                  \"Aluimentos de Terras\" tal como acima definidos.
+                  A presente condição especial está limitada ao território de 
+                  Angola. "
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 3,
+            "Titulo": "Exclusões",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Além das exclusões constantes das Condições Gerais da 
+                  Apólice e susceptíveis de serem aplicadas, as garantias 
+                  consignadas nesta Condição Especial não abrangem os 
+                  danos resultante de:",
+                  "subdescricao": [
+                  {
+                    "indice": null,
+                    "Descricao": "Poluição"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Chuvas ácidas"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Salinidade"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "Radiações"
+                  },
+                  {
+                    "indice": null,
+                    "Descricao": "E de produtos radioactivos ou nucleares"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 4,
+            "Titulo": "Franquia",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Ao valor da indemnização a liquidar ao Tomador do 
+                  Seguro, haverá que deduzir o valor da franquia indicada 
+                  nas Condições Particulares"
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 5,
+            "Titulo": "Agravamentos e bonificações por sinistralidade",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Os sinistros participados ao abrigo desta garantia, 
+                  influenciam na aplicação de agravamentos ou 
+                  bonificações."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "NumCapitulo": 7,
+        "Designacao":"Condição Especial
+          Ocupantes de Viatura",
+          "Artigo": [
+          {
+            "NumOrdemArtigo": 1,
+            "Titulo": "Definições",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao": "Para efeitos desta Condição Especial consideram-se",
+                "subdescricao": [
+                  {
+                    "indice": 1,
+                    "Descricao":"Pessoas Seguras, os ocupantes do veículo 
+                      seguro, incluindo o condutor, cuja vida ou 
+                      integridade física se segura"
+                  },
+                  {
+                    "indice": 2,
+                    "Descricao":"Beneficiário, a pessoa singular ou colectiva, a 
+                      favor de quem reverte a prestação do Segurador, 
+                      decorrente de um sinistro"
+                  },
+                  {
+                    "indice": 3,
+                    "Descricao": "Acidente, o acontecimento súbito, imp"
+                  },
+                  {
+                    "indice": 4,
+                    "Descricao":"revisível e violento, ocorrido em consequência 
+                      exclusiva da circulação rodoviária, quer o veículo 
+                      seguro se encontre ou não em movimento, 
+                      durante o transporte automóvel, a entrada ou 
+                      saída para o veículo seguro, ou mesmo a 
+                      participação activa, no decurso de uma viagem, 
+                      em trabalhos de pequena reparação ou 
+                      desempanagem do mesmo"
+                  },
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 2,
+            "Titulo": "Objecto e âmbito da cobertura",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"Nos termos desta Condição Especial e das 
+                  Condições Particulares da Apólice, ficam 
+                  garantidas as indemnizações devidas pelos 
+                  danos corporais sofridos por qualquer ocupante 
+                  do veículo seguro em consequência de acidente 
+                  de viação."
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Em caso de acidente o Segurador garante o 
+                  pagamento da indemnização por:
+                  ",
+                  "subdescricao": [
+                  {
+                    "indice": "a",
+                    "Descricao": "Morte ou Invalidez Permanente"
+                  },
+                  {
+                    "indice": "b",
+                    "Descricao": "Despesas de Tratamento"
+                  },
+                  {
+                    "indice": "c",
+                    "Descricao": "Despesas de Funeral"
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao":"A presente condição especial está limitada ao 
+                  território de Angola."
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 3,
+            "Titulo": "Exclusões",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Para além das exclusões constantes das Condições Gerais 
+                  da Apólice, ficam também excluídos",
+                  "subdescricao": [
+                  {
+                    "indice": 1,
+                    "Descricao":"Os danos resultantes da posse ou utilização abusiva do 
+                      veículo"
+                  },
+                  {
+                    "indice": 2,
+                    "Descricao":"Os danos a pessoas transportadas na caixa de carga, 
+                      ainda que se trate de transporte autorizado"
+                  },
+                  {
+                    "indice": 3,
+                    "Descricao":".Os danos a condutores que se encontrem sob a 
+                      influência do álcool, estupefacientes, outras drogas ou 
+                      produtos tóxicos, ou que recusem submeter-se aos 
+                      respectivos testes de detecção"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 4,
+            "Titulo": "Obrigações do Tomador de Seguro",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao": "",
+                "subdescricao": [
+                  {
+                    "indice": 1,
+                    "Descricao":"Tomar todas as providências para evitar o agravamento 
+                      das consequências do acidente"
+                  },
+                  {
+                    "indice": 2,
+                    "Descricao":" Promover o envio, até oito dias após a Pessoa Segura 
+                      ter sido clinicamente assistida, de uma declaração do 
+                      médico, em que conste a natureza das lesões, o seu 
+                      diagnóstico, bem como a indicação da possível Invalidez 
+                      Permanente"
+                  },
+                  {
+                    "indice": 3,
+                    "Descricao":"Comunicar até oito dias, após a sua verificação, a cura 
+                      das lesões, promovendo o envio da declaração médica, 
+                      onde conste, além da data da alta, a percentagem de 
+                      Invalidez Permanente, eventualmente constatada"
+                  },
+                  {
+                    "indice": 4,
+                    "Descricao":"Entregar, para o reembolso a que houver lugar, a 
+                      documentação original e todos os documentos justificativos 
+                      das despesas efectuadas e abrangidas pela presente 
+                      Condição Especial."
+                  },
+                ]
+              },
+              {
+                "NumDescircao": null,
+                "Descricao": "A Pessoa Segura obriga-se ainda a:",
+                "subdescricao": [
+                  {
+                    "indice": 1,
+                    "Descricao":"Cumprir as prescrições médicas, sob pena de o 
+                      Segurador apenas responder pelas consequências do 
+                      acidente que presumivelmente se verificariam se aquelas 
+                      prescrições tivessem sido observadas;
+                      "
+                  },
+                  {
+                    "indice": 2,
+                    "Descricao":"Sujeitar-se a exame por médico designado pelo 
+                      Segurador, sempre que este o requeira, cessando a 
+                      responsabilidade deste se o não fizer;"
+                  },
+                  {
+                    "indice": 3,
+                    "Descricao":"Autorizar os médicos a prestarem todas as 
+                      informações solicitadas pelo Segurador, sob pena da 
+                      cessação da responsabilidade do Segurador."
+                  },
+                  {
+                    "indice": 4,
+                    "Descricao":"Se do acidente resultar a morte de Pessoa Segura, 
+                      deverão, em complemento da participação do 
+                      acidente, ser enviados ao Segurador o certificado de 
+                      óbito (com indicação da causa da morte) e, quando 
+                      considerados necessários, outros documentos 
+                      elucidativos do acidente e das suas consequências."
+                  },
+                  {
+                    "indice": 5,
+                    "Descricao":"No caso de comprovada impossibilidade da Pessoa 
+                      Segura cumprir qualquer das obrigações previstas 
+                      nesta Condição Especial, transfere-se tal obrigação 
+                      para quem - Tomador do Seguro ou Beneficiário - a 
+                      possa cumprir"
+                  },
+                  {
+                    "indice": 6,
+                    "Descricao":"A Pessoa Segura perde direito à indemnização se, 
+                      agravar, voluntária e intencionalmente, as 
+                      consequências do sinistro, ou usar de fraude, 
+                      simulação ou quaisquer outros meios dolosos, bem 
+                      como de documentos falsos para justificar a sua 
+                      reclamação."
+                  }
+                ]
+              },
+            ]
+          },
+          {
+            "NumOrdemArtigo": 5,
+            "Titulo": "",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao": "Morte",
+                "subdescricao": [
+                  {
+                    "indice": 1.1,
+                    "Descricao":"No caso de Morte, ocorrida imediatamente 
+                      ou no decurso de dois anos a contar da data do 
+                      acidente, o Segurador pagará o correspondente 
+                      capital seguro aos Beneficiários expressamente 
+                      designados na Apólice;"
+                  },
+                  {
+                    "indice": 1.2,
+                    "Descricao":"Na falta de designação de Beneficiários, o 
+                      capital seguro será atribuído de acordo com a lei 
+                      civil aplicável;"
+                  },
+                  {
+                    "indice": 1.3,
+                    "Descricao":"Ocorrendo o falecimento de Pessoa Segura 
+                      com menos de quatro ou mais de setenta anos, o 
+                      Segurador pagará, para além das Despesas de 
+                      Tratamento, uma indemnização suficiente para 
+                      assegurar o pagamento das despesas de funeral, 
+                      em substituição da indemnização por Morte;"
+                  },
+                  {
+                    "indice": 1.4,
+                    "Descricao":"No caso de falecimento de Pessoa Segura 
+                      com idade compreendida entre os quatro e os 
+                      dezasseis anos, ambas inclusive, as 
+                      indemnizações por Morte serão reduzidas a 
+                      metade;"
+                  },
+                  {
+                    "indice": 1.5,
+                    "Descricao":"As indemnizações devidas por Morte ou 
+                      Invalidez Permanente não são cumuláveis, pelo 
+                      que, se for paga uma indemnização por Invalidez 
+                      Permanente e a Pessoa Segura vier a falecer em 
+                      consequência do mesmo acidente, dentro dos 
+                      dois anos seguintes à sua ocorrência, a 
+                      indemnização adicional a que houver lugar, 
+                      somada àquela que já foi paga por Invalidez 
+                      Permanente, não pode ultrapassar o capital 
+                      seguro.
+                      "
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao": "Invalidez Permanente",
+                "subdescricao": [
+                  {
+                    "indice": 2.1,
+                    "Descricao":"No caso de Invalidez Permanente, 
+                      clinicamente constatada e sobrevinda no decurso 
+                      de dois anos, a contar da data do acidente, o
+                      grau de desvalorização de cada Pessoa Segura 
+                      será determinado de acordo com a Tabela de 
+                      Desvalorização constante do Anexo I da presente 
+                      Condição Especial e, quando o grau de invalidez, 
+                      calculado nos termos da referida Tabela, iguale 
+                      ou exceda 50%, a prestação do Segurador 
+                      corresponderá a 100% do capital seguro desta 
+                      garantia"
+                  },
+                  {
+                    "indice": 2.2,
+                    "Descricao":"As lesões não enumeradas na Tabela de 
+                      Desvalorização referida no número anterior, 
+                      mesmo de importância menor, são indemnizadas 
+                      em proporção da sua gravidade, comparada com 
+                      a dos casos enumerados, sem ter em conta a 
+                      profissão exercida"
+                  },
+                  {
+                    "indice": 2.3,
+                    "Descricao":"Se a Pessoa Segura for canhota, as 
+                      percentagens de invalidez para o membro 
+                      superior direito, aplicam-se ao membro superior 
+                      esquerdo, e reciprocamente"
+                  },
+                  {
+                    "indice": 2.4,
+                    "Descricao":"Os defeitos físicos de que a Pessoa Segura 
+                      já era portadora em qualquer membro ou órgão à 
+                      data do acidente, serão tomados em 
+                      consideração ao fixar-se o grau de 
+                      desvalorização proveniente deste, que 
+                      corresponderá à diferença entre a invalidez já 
+                      existente e aquela que passou a existir"
+                  },
+                  {
+                    "indice": 2.5,
+                    "Descricao":"A incapacidade funcional parcial ou total de 
+                      um membro ou órgão, é assimilada à 
+                      correspondente perda parcial ou total;"
+                  },
+                  {
+                    "indice": 2.6,
+                    "Descricao":"Em relação a um mesmo membro ou órgão, 
+                      as desvalorizações acumuladas não podem 
+                      exceder aquela que corresponderia à perda total 
+                      desse membro ou órgão"
+                  },
+                  {
+                    "indice": 2.7,
+                    "Descricao":"- Sempre que de um acidente resultem lesões 
+                      em mais de um membro ou órgão, a 
+                      indemnização total obtém-se tendo em conta a 
+                      soma das percentagens de desvalorização da 
+                      tabela relativa a cada uma das lesões, sem que 
+                      essa soma exceda os 100 %.
+                      "
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 3,
+                "Descricao": "Despesas de Tratamento e Repatriamento",
+                "subdescricao": [
+                  {
+                    "indice": null,
+                    "Descricao":"O reembolso das Despesas de Tratamento será efectuado 
+                      pelo Segurador, nos termos e limites fixados nas 
+                      Condições Particulares, a quem provar ter pago as 
+                      despesas, bem como as despesas extraordinárias de 
+                      repatriamento em transporte clinicamente aconselhado em 
+                      face dessas lesões."
+                  }
+                ]
+              },
+              {
+                "NumDescircao": 4,
+                "Descricao": "Despesas de Funeral:",
+                "subdescricao": [
+                  {
+                    "indice": null,
+                    "Descricao":"O Segurador procederá ao reembolso, até à quantia para o 
+                      efeito fixada nas Condições Particulares, das despesas 
+                      com o funeral da Pessoa Segura."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 6,
+            "Titulo": "Rateio das Indemnizações",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"As indemnizações previstas nesta Condição Especial, 
+                  cujo montante se encontra fixado nas Condições 
+                  Particulares, são atribuídas por cabeça, até ao limite 
+                  máximo da lotação, constante do livrete de circulação do 
+                  veículo seguro.",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Se a lotação do veículo se encontrar excedida no 
+                  momento do acidente, os capitais seguros por Pessoa, 
+                  para cada garantia, serão determinados dividindo pelo 
+                  número de pessoas efectivamente em risco no momento 
+                  do acidente, o produto dos capitais fixados nas Condições 
+                  Particulares pela lotação constante do Certificado de 
+                  Matrícula do veículo seguro",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 7,
+            "Titulo": "Pluralidade de Seguros",
+            "Descricao": [
+              {
+                "NumDescircao": 1,
+                "Descricao":"O Tomador do Seguro e / ou a Pessoa Segura fica 
+                  obrigado a participar ao Segurador a existência de outros 
+                  seguros, garantindo o mesmo risco",
+              },
+              {
+                "NumDescircao": 2,
+                "Descricao":"Existindo, à data do sinistro, outros contractos de seguro 
+                  garantindo o reembolso das Despesas de Tratamento, esta 
+                  apenas funcionará em caso de inexistência, ineficácia ou
+                  Insuficiência de seguros anteriores.",
+              }
+            ]
+          },
+          {
+            "NumOrdemArtigo": 8,
+            "Titulo": "Agravamentos e bonificações por sinistralidade",
+            "Descricao": [
+              {
+                "NumDescircao": null,
+                "Descricao":"Os sinistros participados ao abrigo desta Condição 
+                  Especial, não influenciam na aplicação de agravamentos 
+                  ou bonificações.",
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
